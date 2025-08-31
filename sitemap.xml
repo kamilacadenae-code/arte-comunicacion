@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://kamilacadenae-code.github.io/arte-comunicacion/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://kamilacadenae-code.github.io/arte-comunicacion/</loc>
+</url>
+<url>
+<loc>https://kamilacadenae-code.github.io/arte-comunicacion/composicion-visual-2.html</loc>
+<lastmod>2025-08-30T18:54:15-05:00</lastmod>
+<image:image>
+<image:loc>https://kamilacadenae-code.github.io/arte-comunicacion/media/posts/3/WhatsApp-Image-2025-08-30-at-18.46.15.jpeg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://kamilacadenae-code.github.io/arte-comunicacion/quien-soy.html</loc>
+<lastmod>2025-08-30T16:57:53-05:00</lastmod>
+<image:image>
+<image:loc>https://kamilacadenae-code.github.io/arte-comunicacion/media/posts/1/WhatsApp-Image-2025-08-30-at-16.56.48.jpeg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+</urlset>

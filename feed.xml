@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Arte y comunicación</title>
+    <link href="https://kamilacadenae-code.github.io/arte-comunicacion/feed.xml" rel="self" />
+    <link href="https://kamilacadenae-code.github.io/arte-comunicacion" />
+    <updated>2025-08-30T18:54:15-05:00</updated>
+    <author>
+        <name>Kamila Cadena</name>
+    </author>
+    <id>https://kamilacadenae-code.github.io/arte-comunicacion</id>
+
+    <entry>
+        <title>Composición visual</title>
+        <author>
+            <name>Kamila Cadena</name>
+        </author>
+        <link href="https://kamilacadenae-code.github.io/arte-comunicacion/composicion-visual-2.html"/>
+        <id>https://kamilacadenae-code.github.io/arte-comunicacion/composicion-visual-2.html</id>
+        <media:content url="https://kamilacadenae-code.github.io/arte-comunicacion/media/posts/3/WhatsApp-Image-2025-08-30-at-18.46.15.jpeg" medium="image" />
+            <category term="Composicion visual"/>
+
+        <updated>2025-08-30T18:54:15-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://kamilacadenae-code.github.io/arte-comunicacion/media/posts/3/WhatsApp-Image-2025-08-30-at-18.46.15.jpeg" alt="" />
+                    Esta es mi composición visual realizada en Inkscape, una obra abstracta en la que combiné diferentes colores y formas para explorar el movimiento y la armonía. Utilicé principalmente colores vibrantes.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://kamilacadenae-code.github.io/arte-comunicacion/media/posts/3/WhatsApp-Image-2025-08-30-at-18.46.15.jpeg" class="type:primaryImage" alt="" /></p>
+                <p>Esta es mi composición visual realizada en Inkscape, una obra abstracta en la que combiné diferentes colores y formas para explorar el movimiento y la armonía. Utilicé principalmente colores vibrantes.<figure class="post__image"><img loading="lazy"  src="file:///Users/cami/Documents/Publii/sites/arte-y-comunicacion/input/media/posts/2/WhatsApp-Image-2025-08-30-at-18.46.15.jpeg" alt="" width="1123" height="794" sizes="(min-width: 1500px) calc(7.87vw + 610px), (min-width: 900px) calc(44.48vw + 68px), (min-width: 780px) calc(8vw + 604px), calc(84.35vw + 23px)" srcset="file:///Users/cami/Documents/Publii/sites/arte-y-comunicacion/input/media/posts/2/responsive/WhatsApp-Image-2025-08-30-at-18.46.15-xs.jpeg 300w ,file:///Users/cami/Documents/Publii/sites/arte-y-comunicacion/input/media/posts/2/responsive/WhatsApp-Image-2025-08-30-at-18.46.15-sm.jpeg 480w ,file:///Users/cami/Documents/Publii/sites/arte-y-comunicacion/input/media/posts/2/responsive/WhatsApp-Image-2025-08-30-at-18.46.15-md.jpeg 768w"></figure>
+            ]]>
+        </content>
+    </entry>
+</feed>
