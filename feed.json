@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://kamilacadenae-code.github.io/arte-comunicacion/comic.html",
+            "url": "https://kamilacadenae-code.github.io/arte-comunicacion/comic.html",
+            "title": "Cómic",
+            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://kamilacadenae-code.github.io/arte-comunicacion/media/posts/4/WhatsApp-Image-2025-09-20-at-15.07.02.jpeg\" alt=\"\" width=\"1280\" height=\"1280\" sizes=\"(min-width: 1500px) calc(7.87vw + 610px), (min-width: 900px) calc(44.48vw + 68px), (min-width: 780px) calc(8vw + 604px), calc(84.35vw + 23px)\" srcset=\"https://kamilacadenae-code.github.io/arte-comunicacion/media/posts/4/responsive/WhatsApp-Image-2025-09-20-at-15.07.02-xs.jpeg 300w ,https://kamilacadenae-code.github.io/arte-comunicacion/media/posts/4/responsive/WhatsApp-Image-2025-09-20-at-15.07.02-sm.jpeg 480w ,https://kamilacadenae-code.github.io/arte-comunicacion/media/posts/4/responsive/WhatsApp-Image-2025-09-20-at-15.07.02-md.jpeg 768w\"></figure>",
+            "author": {
+                "name": "Kamila Cadena"
+            },
+            "tags": [
+                   "Cómics"
+            ],
+            "date_published": "2025-09-20T15:08:56-05:00",
+            "date_modified": "2025-09-20T15:08:56-05:00"
+        },
+        {
             "id": "https://kamilacadenae-code.github.io/arte-comunicacion/composicion-visual-2.html",
             "url": "https://kamilacadenae-code.github.io/arte-comunicacion/composicion-visual-2.html",
             "title": "Composición visual",

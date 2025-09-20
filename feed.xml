@@ -3,12 +3,29 @@
     <title>Arte y comunicación</title>
     <link href="https://kamilacadenae-code.github.io/arte-comunicacion/feed.xml" rel="self" />
     <link href="https://kamilacadenae-code.github.io/arte-comunicacion" />
-    <updated>2025-08-30T18:54:15-05:00</updated>
+    <updated>2025-09-20T15:08:56-05:00</updated>
     <author>
         <name>Kamila Cadena</name>
     </author>
     <id>https://kamilacadenae-code.github.io/arte-comunicacion</id>
 
+    <entry>
+        <title>Cómic</title>
+        <author>
+            <name>Kamila Cadena</name>
+        </author>
+        <link href="https://kamilacadenae-code.github.io/arte-comunicacion/comic.html"/>
+        <id>https://kamilacadenae-code.github.io/arte-comunicacion/comic.html</id>
+            <category term="Cómics"/>
+
+        <updated>2025-09-20T15:08:56-05:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image"><img loading="lazy"  src="https://kamilacadenae-code.github.io/arte-comunicacion/media/posts/4/WhatsApp-Image-2025-09-20-at-15.07.02.jpeg" alt="" width="1280" height="1280" sizes="(min-width: 1500px) calc(7.87vw + 610px), (min-width: 900px) calc(44.48vw + 68px), (min-width: 780px) calc(8vw + 604px), calc(84.35vw + 23px)" srcset="https://kamilacadenae-code.github.io/arte-comunicacion/media/posts/4/responsive/WhatsApp-Image-2025-09-20-at-15.07.02-xs.jpeg 300w ,https://kamilacadenae-code.github.io/arte-comunicacion/media/posts/4/responsive/WhatsApp-Image-2025-09-20-at-15.07.02-sm.jpeg 480w ,https://kamilacadenae-code.github.io/arte-comunicacion/media/posts/4/responsive/WhatsApp-Image-2025-09-20-at-15.07.02-md.jpeg 768w"></figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Composición visual</title>
         <author>
