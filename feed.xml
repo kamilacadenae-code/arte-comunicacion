@@ -3,12 +3,34 @@
     <title>Arte y comunicación</title>
     <link href="https://kamilacadenae-code.github.io/arte-comunicacion/feed.xml" rel="self" />
     <link href="https://kamilacadenae-code.github.io/arte-comunicacion" />
-    <updated>2025-09-22T19:35:30-05:00</updated>
+    <updated>2025-10-08T19:39:40-05:00</updated>
     <author>
         <name>Kamila Cadena</name>
     </author>
     <id>https://kamilacadenae-code.github.io/arte-comunicacion</id>
 
+    <entry>
+        <title>Podcast</title>
+        <author>
+            <name>Kamila Cadena</name>
+        </author>
+        <link href="https://kamilacadenae-code.github.io/arte-comunicacion/podcast.html"/>
+        <id>https://kamilacadenae-code.github.io/arte-comunicacion/podcast.html</id>
+            <category term="Podcast"/>
+
+        <updated>2025-10-08T19:39:40-05:00</updated>
+            <summary>
+                <![CDATA[
+                    En este podcast se entrevistó a una estudiante del pregrado de artes de la Universidad de los Andes. Susana, experimentó con el corozo para realizar pigmentos textiles. https://drive.google.com/file/d/1RaGLPCJoKnbVBYkbyBJA5TEubxycLqnM/view?usp=drive_link
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>En este podcast se entrevistó a una estudiante del pregrado de artes de la Universidad de los Andes. Susana, experimentó con el corozo para realizar pigmentos textiles.</p>
+<p>https://drive.google.com/file/d/1RaGLPCJoKnbVBYkbyBJA5TEubxycLqnM/view?usp=drive_link</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Composición sonora</title>
         <author>
@@ -26,7 +48,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <p><a href="https://drive.google.com/file/d/1SiAm2W4Zu_3e87vL0CKtN9Wx7PT1vOH3/view?usp=drive_link">https://drive.google.com/file/d/1SiAm2W4Zu_3e87vL0CKtN9Wx7PT1vOH3/view?usp=drive_link</a></p>
+                <p><a href="https://kamilacadenae-code.github.io/arte-comunicacion/https://drive.google.com/file/d/1SiAm2W4Zu_3e87vL0CKtN9Wx7PT1vOH3/view?usp=drive_link">https://drive.google.com/file/d/1SiAm2W4Zu_3e87vL0CKtN9Wx7PT1vOH3/view?usp=drive_link</a></p>
 <p> </p>
 <article class="text-token-text-primary w-full focus:outline-none scroll-mt-[calc(var(--header-height)+min(200px,max(70px,20svh)))]" dir="auto" tabindex="-1" data-turn-id="request-68cf06ea-04e4-8327-97f0-ba5860f3501e-1" data-testid="conversation-turn-18" data-scroll-anchor="true" data-turn="assistant">
 <div class="text-base my-auto mx-auto pb-10 [--thread-content-margin:--spacing(4)] thread-sm:[--thread-content-margin:--spacing(6)] thread-lg:[--thread-content-margin:--spacing(16)] px-(--thread-content-margin)">
